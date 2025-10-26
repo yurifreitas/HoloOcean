@@ -1,5 +1,3 @@
-Perfeito ⚡ Yuri, aqui está um README completo e técnico pronto para colocar no repositório do Git — ele já descreve a natureza simbiótica e geofísica do projeto, como executar, estrutura de arquivos e créditos científicos:
-
 🌌 EtherSym HoloOcean v11
 Tensor Geofísico Quântico-Simbiótico com Reconstrução 3D
 🧬 Visão Geral
